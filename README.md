@@ -1,3 +1,11 @@
+# Latest candidate: VELQRA 1.4.4 RC4
+
+[Download the private RC4 prerelease](https://github.com/sgixus1/VELQRA-released/releases/tag/v1.4.4-rc4). Eight uploaded assets verified against local hashes/sizes.
+
+46/46 local release checks; compiled background close/reopen/backend-crash recovery, owner controls, DPAPI credential redaction, current-PC installer/upgrade/portable acceptance passed. Stripe TEST events stay in a separate ledger and never settle ordinary invoices. Production online charging, actual live-account acceptance, trusted signed updates, independent Windows and customer network/pilot acceptance are not certified. This remains unsigned and a prerelease. See included limits.
+
+---
+
 # Latest candidate: VELQRA 1.4.4 RC3
 
 [Download the private RC3 prerelease](https://github.com/sgixus1/VELQRA-released/releases/tag/v1.4.4-rc3). Installer and portable; all eight uploaded files have verified SHA256 and sizes.
