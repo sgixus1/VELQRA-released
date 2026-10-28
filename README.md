@@ -1,3 +1,11 @@
+# Latest candidate: VELQRA 1.4.4 RC3
+
+[Download the private RC3 prerelease](https://github.com/sgixus1/VELQRA-released/releases/tag/v1.4.4-rc3). Installer and portable; all eight uploaded files have verified SHA256 and sizes.
+
+42/42 local release checks and current-PC installer/upgrade/portable acceptance passed. This is unsigned and remains a prerelease. Independent clean Windows, actual office/home network, payment/signing/update/pilot and broader all-function acceptance remain open. Read the included notes and limits.
+
+---
+
 # VELQRA released
 
 Private Windows release distribution for VELQRA. This repository contains release information and compiled downloads only. Proprietary application source and business data are excluded.
