@@ -1,8 +1,8 @@
 # VELQRA — latest private build
 
-## 1.4.4 RC7 · 30 October 2026
+## 1.4.4 RC8 · 30 October 2026
 
-[Download the installer and portable](https://github.com/sgixus1/VELQRA-released/releases/tag/v1.4.4-rc7)
+[Download the installer and portable](https://github.com/sgixus1/VELQRA-released/releases/tag/v1.4.4-rc8)
 
 This private repository distributes compiled Windows builds and release information. Proprietary source, business data, publisher keys and activation files are excluded.
 
@@ -11,11 +11,13 @@ This private repository distributes compiled Windows builds and release informat
 - Import a **Production licence** supplied by the publisher. One computer per licence; TEST licences cannot activate these builds.
 - Verify the downloaded files against **SHA256SUMS.txt**. Read **README.txt**, **VERIFICATION.txt** and **THIRD-PARTY-NOTICES.txt**.
 
-## RC7 staff access controls
+## RC8 — VELQRA AI
 
-113 starting role templates across 26 trades; per-resource actions and Own/Assigned/Team/Company scopes; sensitive-field groups, record assignments and immediate revocation/offboarding. Configure in Company Setup > Team & App Access. Review existing staff policies and assignments before enabling Require explicit controls for all staff.
+Fully local Qwen3.5-0.8B model, automatic compatible GPU selection with CPU fallback, and one integrated VELQRA AI panel without provider setup. Answers follow current module, record and field permissions, including restricted salary access.
 
-Actual final protected portable scoped-API/UI/restart/licence-lock checks pass. Full registered run: 77/78, then corrected export/print harness passes; additional targeted policy, cache and main UI checks pass. See VERIFICATION.txt for exact boundaries. Existing trade workflows do not become complete merely by receiving a role template; missing commission/quota and other industry workflows remain separate work.
+The current assistant is read-only: supported help, navigation, scoped counts and explicitly permitted salary lookup. Broader drafting, automation and all-trade AI understanding are unfinished. Actual protected portable model/GPU/permissions/restart/licence-lock checks passed; small routing evaluation 13/14. Initial source suite 83/84, sole stale UI-label check corrected and rendered rerun passes. See VERIFICATION.txt for exact boundaries.
+
+Both executables include the offline model (approximately 707 MB installer / 690 MB portable). Normal production activation required. [Private development source and Claude kit](https://github.com/sgixus1/VELQRA-source) are separate from this compiled-only repository.
 
 ## Release status
 
