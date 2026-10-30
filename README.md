@@ -13,9 +13,9 @@ This private repository distributes compiled Windows builds and release informat
 
 ## RC7 staff access controls
 
-113starting role templates across26trades; per-resource actions and Own/Assigned/Team/Company scopes; sensitive-field groups, record assignments and immediate revocation/offboarding. Configure in Company Setup > Team access. Review existing staff policies and assignments before enabling Require explicit controls for all staff.
+113 starting role templates across 26 trades; per-resource actions and Own/Assigned/Team/Company scopes; sensitive-field groups, record assignments and immediate revocation/offboarding. Configure in Company Setup > Team & App Access. Review existing staff policies and assignments before enabling Require explicit controls for all staff.
 
-Actual final protected portable scoped-API/UI/restart/licence-lock checks pass. Full registered run77/78then corrected export/print harness passes; additional targeted policy/cache/mainUI checks pass. See VERIFICATION.txt for exact boundaries. Existing trade workflows do not become complete merely by receiving a role template; missing commission/quota and other industry workflows remain separate work.
+Actual final protected portable scoped-API/UI/restart/licence-lock checks pass. Full registered run: 77/78, then corrected export/print harness passes; additional targeted policy, cache and main UI checks pass. See VERIFICATION.txt for exact boundaries. Existing trade workflows do not become complete merely by receiving a role template; missing commission/quota and other industry workflows remain separate work.
 
 ## Release status
 
