@@ -1,25 +1,24 @@
-# Latest candidate: VELQRA 1.4.4 RC4
+# VELQRA — latest private build
 
-[Download the private RC4 prerelease](https://github.com/sgixus1/VELQRA-released/releases/tag/v1.4.4-rc4). Eight uploaded assets verified against local hashes/sizes.
+## 1.4.4 RC5 · 30 October 2026
 
-46/46 local release checks; compiled background close/reopen/backend-crash recovery, owner controls, DPAPI credential redaction, current-PC installer/upgrade/portable acceptance passed. Stripe TEST events stay in a separate ledger and never settle ordinary invoices. Production online charging, actual live-account acceptance, trusted signed updates, independent Windows and customer network/pilot acceptance are not certified. This remains unsigned and a prerelease. See included limits.
+[Download the installer and portable](https://github.com/sgixus1/VELQRA-released/releases/tag/v1.4.4-rc5)
 
----
+This private repository distributes compiled Windows builds and release information. Proprietary source, business data, publisher keys and activation files are excluded.
 
-# Latest candidate: VELQRA 1.4.4 RC3
+- **Installer:** VELQRA-1.4.4-x64-Setup.exe
+- **Portable:** VELQRA-1.4.4-x64-Portable.exe. Keep its **VELQRA Data** folder beside it and back up that folder.
+- Import a **Production licence** supplied by the publisher. One computer per licence; TEST licences cannot activate these builds.
+- Verify the downloaded files against **SHA256SUMS.txt**. Read **README.txt**, **VERIFICATION.txt** and **THIRD-PARTY-NOTICES.txt**.
 
-[Download the private RC3 prerelease](https://github.com/sgixus1/VELQRA-released/releases/tag/v1.4.4-rc3). Installer and portable; all eight uploaded files have verified SHA256 and sizes.
+## Verified repairs
 
-42/42 local release checks and current-PC installer/upgrade/portable acceptance passed. This is unsigned and remains a prerelease. Independent clean Windows, actual office/home network, payment/signing/update/pilot and broader all-function acceptance remain open. Read the included notes and limits.
+The final registered suite passes **68/68 checks**, including 53 company/freelancer trade workflows. Both actual installer and portable pass permission/company-isolation, retained-record/file, rollback, activation, automatic suspension/restart/resume and full access-lock tests. Payslip rendering/printing/PDF and publisher draft preservation are repaired. Bounded tests do not certify every legacy action or jurisdiction.
 
----
+## Release status
 
-# VELQRA released
+**Unsigned private prerelease.** Complimentary production licensing works; live paid checkout remains disabled. Independent clean-Windows installation/upgrade, external office/home networking and reboot startup, off-machine publisher-key recovery, trusted signed updates/rollback and wider pilot acceptance remain open. Source protection is a deterrent, not a guarantee against reverse engineering.
 
-Private Windows release distribution for VELQRA. This repository contains release information and compiled downloads only. Proprietary application source and business data are excluded.
+## Earlier candidates
 
-[Download VELQRA 1.4.4](https://github.com/sgixus1/VELQRA-released/releases/tag/v1.4.4)
-
-Choose Setup.exe for installation or Portable.exe for use without installation. Portable workspaces are stored in VELQRA Data beside the executable; move both together. Verify downloads with SHA256SUMS.txt and read READ-ME.txt and THIRD-PARTY-NOTICES.txt.
-
-The current build is unsigned and marked as a prerelease. Current-PC install/upgrade/persistence and protection checks passed; independent clean Windows and full public-release certification remain open. Code protection raises the reverse-engineering barrier and does not guarantee absolute source secrecy.
+[RC4](https://github.com/sgixus1/VELQRA-released/releases/tag/v1.4.4-rc4) · [RC3](https://github.com/sgixus1/VELQRA-released/releases/tag/v1.4.4-rc3) · [Original 1.4.4](https://github.com/sgixus1/VELQRA-released/releases/tag/v1.4.4)
